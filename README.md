@@ -17,7 +17,7 @@ Follow these simple steps to get this smooth-scrolling masterpiece running on yo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/scrolltrigger-locomotive-smooth-scroll.git
+   git clone https://github.com/ravin972/LearnCanvas.git
    ```
 
 2. Navigate to the project folder:
