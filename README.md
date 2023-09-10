@@ -1,5 +1,3 @@
-Certainly, here's the README file with the code sections removed:
-
 # Smooth Scroll Website with ScrollTrigger and Locomotive.js 🚀
 
 Welcome to the Smooth Scroll Website using ScrollTrigger and Locomotive.js! This repository provides a simple and attractive example of how to create a smooth-scrolling website using the power of GSAP's ScrollTrigger and Locomotive Scroll.
@@ -68,7 +66,7 @@ To incorporate this smooth-scrolling feature into your own project, follow these
 
 ## Contributors 🙌
 
-- [Your Name](https://github.com/ravin972)
+- [Ravinder Pandey](https://github.com/ravin972)
 
 ## Acknowledgments 🙏
 
